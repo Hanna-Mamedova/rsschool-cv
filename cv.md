@@ -1,6 +1,5 @@
 # Hanna Mamedava
-**Junior Frontend Developer**  
-!(rsschool-cv\photo.jpg)
+![**Junior Frontend Developer**  ](/rsschool-cv\photo.jpg)
 
 ## Contacts
 **Phone:** +48 575 242 764  
