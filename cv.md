@@ -1,5 +1,6 @@
 # Hanna Mamedava
-![**Junior Frontend Developer**  ](../rsschool-cv/photo.jpg)
+**Junior Frontend Developer**
+![photo  ](../rsschool-cv/photo.jpg)
 
 ## Contacts
 **Phone:** +48 575 242 764  
@@ -37,11 +38,10 @@ export function multiply(a: number, b: number): number {
 ```
 
 ## Experience
-  Period              | Work 
-----------------------|-------
-*July’21 - Present*   |   ISDB Logistics Poland 
-*Feb’21 - June’21*    |   Kuehne+Nagel 
-*Nov’16 - Jan’21*     |   Rroup
+**Period**-----------------**Work**   
+*July’21 - Present*----ISDB Logistics Poland   
+*Feb’21 - June’21*-----Kuehne+Nagel   
+*Nov’16 - Jan’21*------Rroup
 
 ## Education & Courseworks
 * **Udemy** (Feb’22-Apr’22)  
