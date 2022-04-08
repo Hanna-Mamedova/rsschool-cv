@@ -50,16 +50,16 @@ export function multiply(a: number, b: number): number {
 * **Training Center SkillUP, Kiev** (Oct’20-Feb’21)   
 *Web and JavaScript for Front-end Development*
 
-  + [Grid/Flexbox templates](https://github.com/Hanna-Mamedova/grid-template-init-project)
-https://github.com/Hanna-Mamedova/kinozal-template
-  + [Slider on native JS]
-(https://github.com/Hanna-Mamedova/Slider)
+  + Grid/Flexbox templates:  
+    https://github.com/Hanna-Mamedova/grid-template-init-project
+    https://github.com/Hanna-Mamedova/kinozal-template
+  + [Slider on native JS](https://github.com/Hanna-Mamedova/Slider)
   + [Ajax](https://github.com/Hanna-Mamedova/Ajax--)
   + [FMCG brand presentation. Landing](https://hanna-mamedova.github.io/FMCG-brand-presentation-Twix/)
 
 * **Belarusian State University (BSU), Minsk** (2012 - 2017)  
-*Faculty: International Relations*  
-*Specialization: Customs Logistics\Customs Affairs*
+*Faculty:* International Relations  
+*Specialization:* Customs Logistics\Customs Affairs
 
 ## Languages
 ****
